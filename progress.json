@@ -104,5 +104,14 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787078400.136534,
+    "completed_at": 1787078405.280063,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
